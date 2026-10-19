@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.8/EbrimWid.apk",
-  "releaseNotes": "OTA otomatik güncelleme sistemi ve sürüm yayını",
-  "publishedAt": "2026-10-19T20:15:46Z"
+  "versionCode": 109,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.9/EbrimWid.apk",
+  "releaseNotes": "Google ile giriş için SHA-1 bağımsız Firebase Web OAuth desteği eklendi",
+  "publishedAt": "2026-10-19T20:30:24Z"
 }
