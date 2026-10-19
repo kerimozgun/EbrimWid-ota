@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.10/EbrimWid.apk",
-  "releaseNotes": "Uygulama içi Google Web giriş ekranı ve İsimle Hızlı Giriş eklendi",
-  "publishedAt": "2026-10-19T20:54:17Z"
+  "versionCode": 111,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.11/EbrimWid.apk",
+  "releaseNotes": "Sadece Google ile Giriş aktif bırakıldı",
+  "publishedAt": "2026-10-19T21:23:49Z"
 }
