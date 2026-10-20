@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "1.0.16",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.16/EbrimWid.apk",
-  "releaseNotes": "Son degisiklik geri alindi (v1.0.14 durumuna donuldu)",
-  "publishedAt": "2026-10-20T18:12:41Z"
+  "versionCode": 117,
+  "versionName": "1.0.17",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.17/EbrimWid.apk",
+  "releaseNotes": "Yeni Bento Dashboard Widget UI tasarimi ve 7 Gradient Renk Temasi (Midnight Rose, Sunset, Forest Green, Burgundy Elegance, Dark Glass, White Glass, Deep Blue)",
+  "publishedAt": "2026-10-20T19:09:50Z"
 }
