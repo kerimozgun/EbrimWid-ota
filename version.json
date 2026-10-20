@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "1.0.22",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.22/EbrimWid.apk",
-  "releaseNotes": "feat: add full-length MP3/audio file sharing from device with 1-day auto-deletion",
-  "publishedAt": "2026-10-20T23:03:00Z"
+  "versionCode": 123,
+  "versionName": "1.0.23",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.23/EbrimWid.apk",
+  "releaseNotes": "feat: auto voice titles, YENI badge + added timestamp on widget, remove counter header label, theme-matched pause button",
+  "publishedAt": "2026-10-20T23:26:42Z"
 }
