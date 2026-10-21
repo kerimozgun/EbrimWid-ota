@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "1.0.33",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.33/EbrimWid.apk",
-  "releaseNotes": "Profil sayfasina Profil ve Canli Ekran tab menusu eklendi, ana menudeki Canli Ekran kaldirildi",
-  "publishedAt": "2026-10-21T22:45:39Z"
+  "versionCode": 134,
+  "versionName": "1.0.34",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.34/EbrimWid.apk",
+  "releaseNotes": "Profil Tab Menusune Oda Ayar sekmesi ve oda ayarlari icerigi eklendi",
+  "publishedAt": "2026-10-21T23:02:14Z"
 }
