@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.25/EbrimWid.apk",
-  "releaseNotes": "fix: align PhotoSharingManager helper signatures across LiveWidgetPreviewCard and MainActivity",
-  "publishedAt": "2026-10-21T18:51:16Z"
+  "versionCode": 126,
+  "versionName": "1.0.26",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.26/EbrimWid.apk",
+  "releaseNotes": "feat: align phone home screen widget 1:1 with LiveWidgetPreviewCard",
+  "publishedAt": "2026-10-21T19:34:21Z"
 }
