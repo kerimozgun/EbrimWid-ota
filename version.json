@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.0.28",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.28/EbrimWid.apk",
-  "releaseNotes": "fix(viewmodel): align skipToPreviousTrack and skipToNextTrack calls with SharedMediaTrackItem",
-  "publishedAt": "2026-10-21T20:26:59Z"
+  "versionCode": 130,
+  "versionName": "1.0.30",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.30/EbrimWid.apk",
+  "releaseNotes": "Profil sayfasi derleme referanslari duzeltildi",
+  "publishedAt": "2026-10-21T21:54:13Z"
 }
