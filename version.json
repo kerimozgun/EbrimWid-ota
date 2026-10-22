@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "1.0.51",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.51/EbrimWid.apk",
-  "releaseNotes": "fix(story-viewer): constrain dialog height to 84% of usable screen so bottom action buttons are always visible",
-  "publishedAt": "2026-10-22T16:30:40Z"
+  "versionCode": 153,
+  "versionName": "1.0.53",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.53/EbrimWid.apk",
+  "releaseNotes": "Keep displayRawLocName in EbrimAppWidgetProvider",
+  "publishedAt": "2026-10-22T17:22:48Z"
 }
