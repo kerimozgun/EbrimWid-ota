@@ -1,7 +1,7 @@
 {
-  "versionCode": 153,
-  "versionName": "1.0.53",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.53/EbrimWid.apk",
-  "releaseNotes": "Keep displayRawLocName in EbrimAppWidgetProvider",
-  "publishedAt": "2026-10-22T17:22:48Z"
+  "versionCode": 155,
+  "versionName": "1.0.55",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.55/EbrimWid.apk",
+  "releaseNotes": "fix(main): use currentTab.actionLabel in startup location permission handler",
+  "publishedAt": "2026-10-22T18:14:51Z"
 }
