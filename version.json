@@ -1,7 +1,7 @@
 {
-  "versionCode": 159,
-  "versionName": "1.0.59",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.59/EbrimWid.apk",
-  "releaseNotes": "Add 'e' couple widget SVG logo and update app launcher icons",
-  "publishedAt": "2026-10-22T22:04:02Z"
+  "versionCode": 160,
+  "versionName": "1.0.60",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.60/EbrimWid.apk",
+  "releaseNotes": "Use exact uploaded couple 'e' icon/logo across launcher, SVG, and app UI",
+  "publishedAt": "2026-10-22T22:28:36Z"
 }
