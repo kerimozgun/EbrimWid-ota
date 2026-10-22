@@ -1,7 +1,7 @@
 {
-  "versionCode": 148,
-  "versionName": "1.0.48",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.48/EbrimWid.apk",
-  "releaseNotes": "Add Firebase Realtime Database unlimited engine with automatic migration and Firestore quota guard",
-  "publishedAt": "2026-10-22T15:05:19Z"
+  "versionCode": 149,
+  "versionName": "1.0.49",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.49/EbrimWid.apk",
+  "releaseNotes": "feat(supabase): migrate primary sync engine to Supabase PostgREST + Realtime WebSocket",
+  "publishedAt": "2026-10-22T15:50:59Z"
 }
