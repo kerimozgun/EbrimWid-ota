@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.0.43",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.43/EbrimWid.apk",
-  "releaseNotes": "Make fullscreen story bottom action buttons proportional to portrait device screen",
-  "publishedAt": "2026-10-22T11:15:47Z"
+  "versionCode": 144,
+  "versionName": "1.0.44",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.44/EbrimWid.apk",
+  "releaseNotes": "Fix live app status getting stuck: compare against room state, track UsageStats pause/resume, and auto-retry Firestore listeners",
+  "publishedAt": "2026-10-22T11:28:40Z"
 }
