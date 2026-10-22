@@ -1,7 +1,7 @@
 {
-  "versionCode": 155,
-  "versionName": "1.0.55",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.55/EbrimWid.apk",
-  "releaseNotes": "fix(main): use currentTab.actionLabel in startup location permission handler",
-  "publishedAt": "2026-10-22T18:14:51Z"
+  "versionCode": 156,
+  "versionName": "1.0.56",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.56/EbrimWid.apk",
+  "releaseNotes": "fix(telemetry): ensure instant real-time partner phone status and app activity sync across RTDB and Firestore",
+  "publishedAt": "2026-10-22T20:12:35Z"
 }
