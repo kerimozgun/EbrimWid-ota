@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "1.0.44",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.44/EbrimWid.apk",
-  "releaseNotes": "Fix live app status getting stuck: compare against room state, track UsageStats pause/resume, and auto-retry Firestore listeners",
-  "publishedAt": "2026-10-22T11:28:40Z"
+  "versionCode": 146,
+  "versionName": "1.0.46",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.46/EbrimWid.apk",
+  "releaseNotes": "Add missing DeviceTelemetryProvider import and use SDK-safe event code for activity destroy",
+  "publishedAt": "2026-10-22T12:15:01Z"
 }
