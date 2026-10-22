@@ -1,7 +1,7 @@
 {
-  "versionCode": 140,
-  "versionName": "1.0.40",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.40/EbrimWid.apk",
-  "releaseNotes": "Fix AnimatedVisibility scope receiver in FullScreenSharedPhotoDialog",
-  "publishedAt": "2026-10-22T10:18:26Z"
+  "versionCode": 141,
+  "versionName": "1.0.41",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.41/EbrimWid.apk",
+  "releaseNotes": "Fix partner live status syncing on Widget: link partnerId on join and add background cloud telemetry sync",
+  "publishedAt": "2026-10-22T10:45:29Z"
 }
