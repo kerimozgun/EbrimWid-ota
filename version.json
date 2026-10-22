@@ -1,7 +1,7 @@
 {
-  "versionCode": 156,
-  "versionName": "1.0.56",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.56/EbrimWid.apk",
-  "releaseNotes": "fix(telemetry): ensure instant real-time partner phone status and app activity sync across RTDB and Firestore",
-  "publishedAt": "2026-10-22T20:12:35Z"
+  "versionCode": 158,
+  "versionName": "1.0.58",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.58/EbrimWid.apk",
+  "releaseNotes": "Fix SharedMediaTrackItem and MediaPlaybackController method signatures",
+  "publishedAt": "2026-10-22T21:18:43Z"
 }
