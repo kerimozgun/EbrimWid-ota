@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "1.0.46",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.46/EbrimWid.apk",
-  "releaseNotes": "Add missing DeviceTelemetryProvider import and use SDK-safe event code for activity destroy",
-  "publishedAt": "2026-10-22T12:15:01Z"
+  "versionCode": 147,
+  "versionName": "1.0.47",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.47/EbrimWid.apk",
+  "releaseNotes": "Fix Firebase Firestore data fetching, room attachment & server-first sync",
+  "publishedAt": "2026-10-22T14:34:59Z"
 }
