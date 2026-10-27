@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "1.0.63",
-  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.63/EbrimWid.apk",
-  "releaseNotes": "feat(widget): render all 12 weather phenomena on widget and preview backdrops",
-  "publishedAt": "2026-10-27T20:38:19Z"
+  "versionCode": 164,
+  "versionName": "1.0.64",
+  "apkUrl": "https://github.com/kerimozgun/EbrimWid-ota/releases/download/v1.0.64/EbrimWid.apk",
+  "releaseNotes": "feat(widget): scope weather animations exclusively to weather card in slow mode",
+  "publishedAt": "2026-10-27T20:46:37Z"
 }
